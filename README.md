@@ -1,5 +1,6 @@
 ## Course notes
 
-A collection of textbook-style notes from various courses I've taken as an undergrad at Harvard, including...
-- Stat 111: Introduction to Statistical Inference
+A collection of textbook-style notes from various courses I've taken/audited online as an undergrad.
+- Stat 111: Introduction to Statistical Inference (Harvard)
+- 6.S184: Introduction to Flow Matching and Diffusion Models (MIT)
 
